@@ -1,8 +1,9 @@
 # 👋 ¡Hola! Soy Felipe  
 ## 🚀 Sobre Mí  
+
 💡 Apasionado por la tecnología y emocionado por iniciar mi camino profesional como QA Engineer.  
 🔍 Recientemente finalicé mi formación en QA Engineer en el BootCamp TripleTen, con muchas ganas de aplicar mis conocimientos y seguir aprendiendo en nuevas áreas.  
-📚 Me especializo en testing manual y se usar herramientas como jira y postman, asi mismo tengo conociminto en pruebas automatizadas con Selenium, y tengo experiencia en proyectos con SQL y Python, utilizando librerías como Pytest y Requests.
+📚 Me especializo en testing manual y se usar herramientas como jira y postman, asi mismo tengo conociminto en pruebas automatizadas con Selenium, y tengo experiencia en proyectos con SQL y Python, utilizando librerías como Pytest y Requests.          
 📝 Me gusta el diseño de pruebas: crear casos de prueba, checklists y estrategias que garanticen la calidad del software.  
 🚀 Siempre busco nuevos desafíos para crecer y optimizar procesos de QA.  
 
@@ -11,12 +12,20 @@
 ## 📝 Proyectos Destacados  
 | Proyecto | Descripción | Enlace |
 |----------|------------|--------|
-| **P1** | Validación de procesos y diseño de casos para scooters | [QA-Proyect-Urban-Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main.git) |
-| **P2** | Pruebas manuales y automatizadas en app de gestión de productos | [QA-Proyect-Urban-Grocers](https://github.com/FelipeML94/qa-project-Urban-Grocers-app-es.git) |
-| **P3** | Automatización de pruebas funcionales para solicitud de rutas | [QA-Proyect-Urban-Routes](https://github.com/FelipeML94/qa-project-Urban-Routes-es.git) |
-
+| **P1** | Pruebas manuales a funcionalidad, interfaz y compatibilidad de la app Urban Scooter. | [QA-Proyect-Urban-Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main.git) |
+| **P2** | Pruebas automatizadas con validaciones positivas y negativas sobre formularios de creación de kits. | [QA-Proyect-Urban-Grocers](https://github.com/FelipeML94/qa-project-Urban-Grocers-app-es.git) |
+| **P3** | Automatización de pruebas de rutas críticas en la app Urban Routes. | [QA-Proyect-Urban-Routes](https://github.com/FelipeML94/qa-project-Urban-Routes-es.git) |
 
 ---
+
+## 📜 Certificaciones
+
+
+| Visualiza | Descarga |
+|----------|------------|
+| **[Certifcado Bootcamp_QA](https://github.com/FelipeML94/FelipeML94/blob/main/documentos/Moscoso_Luyo_Felipe_Bootcamp_QA.pdf)** | [📥](https://github.com/FelipeML94/FelipeML94/raw/main/documentos/Moscoso_Luyo_Felipe_Bootcamp_QA.pdf)|
+---
+
 
 ## 🔧 Habilidades  
 <p align="left">
@@ -45,3 +54,5 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>
     </a>
 </p>
+
+
