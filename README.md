@@ -12,9 +12,8 @@
 ## 📝 Proyectos Destacados  
 | Proyecto | Descripción | Enlace |
 |----------|------------|--------|
-| **P1** | Pruebas manuales a funcionalidad, interfaz y compatibilidad de la app Urban Scooter. | [QA-Proyect-Urban-Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main.git) |
-| **P2** | Pruebas automatizadas con validaciones positivas y negativas sobre formularios de creación de kits. | [QA-Proyect-Urban-Grocers](https://github.com/FelipeML94/qa-project-Urban-Grocers-app-es.git) |
-| **P3** | Automatización de pruebas de rutas críticas en la app Urban Routes. | [QA-Proyect-Urban-Routes](https://github.com/FelipeML94/qa-project-Urban-Routes-es.git) |
+| **P1-Urban-Grocers-app-es** | Automatización de pruebas con validaciones positivas y negativas sobre formularios de creación de kits. | [QA-Proyect-Urban-Grocers](https://github.com/FelipeML94/qa-project-Urban-Grocers-app-es.git) |
+| **P2-Urban-Routes-es** | Automatización de pruebas en la app Urban Routes utilizando el método Page Object Model (POM). | [QA-Proyect-Urban-Routes](https://github.com/FelipeML94/qa-project-Urban-Routes-es.git) |
 
 ---
 
